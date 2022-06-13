@@ -7,7 +7,7 @@
 ### I'm Julie, junior web developer from France 🥐
 
 - 👨‍💻 All of my projects are available at [juliebeziat.fr](https://www.juliebeziat.fr/)
-- 📫 How to reach me : **juliebeziat.m@gmail.com**
+- 📫 Reach me at **juliebeziat.m@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/julie-beziat/)
 
 <br />
