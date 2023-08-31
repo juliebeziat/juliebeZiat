@@ -6,7 +6,6 @@
 
 ### I'm Julie, junior web developer from France 🥐
 
-- 👨‍💻 All of my projects are available at [juliebeziat.fr](https://www.juliebeziat.fr/)
 - 📫 Reach me at **juliebeziat.m@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/julie-beziat/)
 - 🌱 Currently working at [AZOT.DEV](https://www.azot.dev/) as Front-End Developer | Mobile & Web | React & React Native
