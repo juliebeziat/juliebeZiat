@@ -8,8 +8,7 @@
 
 - 📫 Reach me at **juliebeziat.m@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/julie-beziat/)
-- 🌱 Currently working at [AZOT.DEV](https://www.azot.dev/) as Front-End Developer | Mobile & Web | React & React Native
-
+- 🌱 Currently working at [andromede.digital](https://andromede.be/) as Web Developer
 <br />
 
 # 💻 Tech Stack:
