@@ -8,6 +8,7 @@
 
 - 📫 Reach me at **juliebeziat.m@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/julie-beziat/)
+- 🔭 Know about my projects on my [portfolio](https://julie-beziat-portfolio.vercel.app/)
 - 🌱 Currently working at [andromede.digital](https://andromede.be/) as Web Developer
 <br />
 
