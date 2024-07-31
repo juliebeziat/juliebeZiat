@@ -4,7 +4,7 @@
   <img src="https://shortcut-test2.s3.amazonaws.com/uploads/role/attachment/436271/default_Junimo.gif" width="100"/>
 </div>
 
-### I'm Julie, junior web developer from France 🥐
+### I'm Julie, web developer from France 🥐
 
 - 📫 Reach me at **juliebeziat.m@gmail.com**
 - 📄 Know about my experiences on my [LinkedIn](https://www.linkedin.com/in/julie-beziat/)
